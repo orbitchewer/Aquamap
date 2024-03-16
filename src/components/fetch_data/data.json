@@ -1,0 +1,1906 @@
+[{
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b07b"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1244,
+    "Latitude": 28.7981,
+    "Site_Name": "AlipurGarhiPz",
+    "May-22": "8.94",
+    "Aug-22": "8.95",
+    "Nov-22": "8.64",
+    "Jan-23": "8.62",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b07c"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2667,
+    "Latitude": 28.4958,
+    "Site_Name": "Asola Pz",
+    "May-22": "49.48",
+    "Aug-22": "48.59",
+    "Nov-22": "44.7",
+    "Jan-23": "44.65",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b07d"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 76.9972,
+    "Latitude": 28.8194,
+    "Site_Name": "AuchandiPz",
+    "May-22": "2.3",
+    "Aug-22": "1.58",
+    "Nov-22": "1.69",
+    "Jan-23": "2.37",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b07e"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1517,
+    "Latitude": 28.8153,
+    "Site_Name": "Bakoli",
+    "May-22": "8.54",
+    "Aug-22": "9.34",
+    "Nov-22": "8.8",
+    "Jan-23": "8.96",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b07f"
+    },
+    "District Name": "South",
+    "Tehsil Name": "SAKET",
+    "Longitude": 77.2078,
+    "Latitude": 28.42,
+    "Site_Name": "Balbir Nagar DW",
+    "May-22": "23.08",
+    "Aug-22": "14.81",
+    "Nov-22": "16",
+    "Jan-23": "20.86",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b080"
+    },
+    "District Name": "East",
+    "Tehsil Name": "PREET VIHAR",
+    "Longitude": 77.2875,
+    "Latitude": 28.6408,
+    "Site_Name": "Bank Enclave Pz",
+    "May-22": "3.75",
+    "Aug-22": "3.6",
+    "Nov-22": "3.08",
+    "Jan-23": "3.35",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b081"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.0736,
+    "Latitude": 28.8514,
+    "Site_Name": "BanknerPz",
+    "May-22": "18.55",
+    "Aug-22": "20.33",
+    "Nov-22": "19.84",
+    "Jan-23": "19.86",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b082"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PUNJABI BAGH",
+    "Longitude": 77.0167,
+    "Latitude": 28.65,
+    "Site_Name": "BaprolaDw",
+    "May-22": "2.57",
+    "Aug-22": "3.5",
+    "Nov-22": "3.43",
+    "Jan-23": "3.63",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b07a"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2511,
+    "Latitude": 28.5539,
+    "Site_Name": "Aastha_Kunj_DWLR",
+    "May-22": "5.33",
+    "Aug-22": "5.27",
+    "Nov-22": "5.29",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b083"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.0625,
+    "Latitude": 28.7583,
+    "Site_Name": "BarwalaPz",
+    "May-22": "4.86",
+    "Aug-22": "4.94",
+    "Nov-22": "5.27",
+    "Jan-23": "5.23",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b084"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.03,
+    "Latitude": 28.7869,
+    "Site_Name": "Bawana JE Store",
+    "May-22": "8.21",
+    "Aug-22": "9.08",
+    "Nov-22": "7.6",
+    "Jan-23": "8.15",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b085"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.0536,
+    "Latitude": 28.8233,
+    "Site_Name": "Bawana WTP",
+    "May-22": "10.95",
+    "Aug-22": "10.76",
+    "Nov-22": "10.49",
+    "Jan-23": "11.76",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b086"
+    },
+    "District Name": "North",
+    "Tehsil Name": "MODEL TOWN",
+    "Longitude": 77.1628,
+    "Latitude": 28.7364,
+    "Site_Name": "Bhalaswa Lake Pz",
+    "May-22": "2.73",
+    "Aug-22": "2.44",
+    "Nov-22": "2.35",
+    "Jan-23": "2.31",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b087"
+    },
+    "District Name": "South",
+    "Tehsil Name": "SAKET",
+    "Longitude": 77.2083,
+    "Latitude": 28.4278,
+    "Site_Name": "Bhatti Pz",
+    "May-22": "48.64",
+    "Aug-22": "48.24",
+    "Nov-22": "39.17",
+    "Jan-23": "43.02",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b088"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.1986,
+    "Latitude": 28.6319,
+    "Site_Name": "Birla Mandir DW",
+    "May-22": "5.19",
+    "Aug-22": "5.89",
+    "Nov-22": "6.29",
+    "Jan-23": "6.49",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b089"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "CIVIL LINES",
+    "Longitude": 77.2075,
+    "Latitude": 28.7689,
+    "Site_Name": "Burari Augur Pz",
+    "May-22": "nan",
+    "Aug-22": "6.6",
+    "Nov-22": "4.62",
+    "Jan-23": "4.8",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b08a"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "CIVIL LINES",
+    "Longitude": 77.1972,
+    "Latitude": 28.7331,
+    "Site_Name": "Burari DJB Ex.Engg Office Pz",
+    "May-22": "3.35",
+    "Aug-22": "3.24",
+    "Nov-22": "3.46",
+    "Jan-23": "3.56",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b08b"
+    },
+    "District Name": "Shahdara",
+    "Tehsil Name": "SHAHDARA",
+    "Longitude": 77.3031,
+    "Latitude": 28.6611,
+    "Site_Name": "CBD Shahdara",
+    "May-22": "14.55",
+    "Aug-22": "14.32",
+    "Nov-22": "13.97",
+    "Jan-23": "14.42",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b08c"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "KOTWALI",
+    "Longitude": 77.2358,
+    "Latitude": 28.6556,
+    "Site_Name": "Chandini Chowk DW",
+    "May-22": "6.48",
+    "Aug-22": "5.82",
+    "Nov-22": "5.72",
+    "Jan-23": "4.17",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b08d"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "KAPESHERA",
+    "Longitude": 77.0094,
+    "Latitude": 28.5464,
+    "Site_Name": "ChhawlaPz",
+    "May-22": "9.2",
+    "Aug-22": "7.37",
+    "Nov-22": "7.52",
+    "Jan-23": "8.16",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b08e"
+    },
+    "District Name": "East",
+    "Tehsil Name": "MAYUR VIHAR",
+    "Longitude": 77.3014,
+    "Latitude": 28.5872,
+    "Site_Name": "Chilla Regulator",
+    "May-22": "10.3",
+    "Aug-22": "10.27",
+    "Nov-22": "9.64",
+    "Jan-23": "9.54",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b08f"
+    },
+    "District Name": "East",
+    "Tehsil Name": "MAYUR VIHAR",
+    "Longitude": 77.2986,
+    "Latitude": 28.6003,
+    "Site_Name": "Chilla SarodaPz",
+    "May-22": "9.6",
+    "Aug-22": "9.62",
+    "Nov-22": "8.99",
+    "Jan-23": "8.54",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b090"
+    },
+    "District Name": "North",
+    "Tehsil Name": "MODEL TOWN",
+    "Longitude": 77.1922,
+    "Latitude": 28.7244,
+    "Site_Name": "Coronation Pillar Pz DJB RWTP",
+    "May-22": "3.34",
+    "Aug-22": "3.1",
+    "Nov-22": "3.11",
+    "Jan-23": "3.24",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b091"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 76.9086,
+    "Latitude": 28.5342,
+    "Site_Name": "Daryapur Khurd Dw",
+    "May-22": "2.3",
+    "Aug-22": "1.78",
+    "Nov-22": "1.48",
+    "Jan-23": "Abandoned",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b092"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 76.9086,
+    "Latitude": 28.5342,
+    "Site_Name": "Daryapur Khurd PZ",
+    "May-22": "nan",
+    "Aug-22": "nan",
+    "Nov-22": "nan",
+    "Jan-23": "2.13",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b093"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "KAPESHERA",
+    "Longitude": 76.9653,
+    "Latitude": 28.5431,
+    "Site_Name": "DaulatpurPz",
+    "May-22": "10.8",
+    "Aug-22": "10.69",
+    "Nov-22": "10.62",
+    "Jan-23": "10.76",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b094"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2414,
+    "Latitude": 28.5325,
+    "Site_Name": "DJB Overhead Tank GK-II Pz",
+    "May-22": "nan",
+    "Aug-22": "nan",
+    "Nov-22": "10.08",
+    "Jan-23": "10.41",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b095"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "DWARKA",
+    "Longitude": 77.0261,
+    "Latitude": 28.5856,
+    "Site_Name": "Dwarka S-16 (TP)",
+    "May-22": "17.86",
+    "Aug-22": "16.85",
+    "Nov-22": "14.15",
+    "Jan-23": "15.15",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b096"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "DWARKA",
+    "Longitude": 77.0508,
+    "Latitude": 28.5672,
+    "Site_Name": "Dwarka Sec-23 DDA Park",
+    "May-22": "15.3",
+    "Aug-22": "14.39",
+    "Nov-22": "13.14",
+    "Jan-23": "14.25",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b097"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "DWARKA",
+    "Longitude": 77.0569,
+    "Latitude": 28.5944,
+    "Site_Name": "Dwarka Sec-5 DDA Park",
+    "May-22": "15.29",
+    "Aug-22": "14.77",
+    "Nov-22": "14.15",
+    "Jan-23": "13.98",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b098"
+    },
+    "District Name": "South",
+    "Tehsil Name": "MEHRAULI",
+    "Longitude": 77.1561,
+    "Latitude": 28.4769,
+    "Site_Name": "GadaipurPz",
+    "May-22": "66.01",
+    "Aug-22": "66.51",
+    "Nov-22": "66.75",
+    "Jan-23": "66.6",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b099"
+    },
+    "District Name": "East",
+    "Tehsil Name": "PREET VIHAR",
+    "Longitude": 77.3181,
+    "Latitude": 28.6281,
+    "Site_Name": "Gazi Pur Crossing",
+    "May-22": "25.87",
+    "Aug-22": "26.08",
+    "Nov-22": "26.24",
+    "Jan-23": "26.14",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b09a"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2417,
+    "Latitude": 28.5408,
+    "Site_Name": "GK 2",
+    "May-22": "4.12",
+    "Aug-22": "4.23",
+    "Nov-22": "Abandoned",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b09b"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2381,
+    "Latitude": 28.5417,
+    "Site_Name": "GK 2 Metro Gate No.1",
+    "May-22": "nan",
+    "Aug-22": "nan",
+    "Nov-22": "6.49",
+    "Jan-23": "6.56",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b09c"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2397,
+    "Latitude": 28.5422,
+    "Site_Name": "GK 2 Metro Gate No.2",
+    "May-22": "nan",
+    "Aug-22": "nan",
+    "Nov-22": "6.09",
+    "Jan-23": "6.29",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b09d"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2389,
+    "Latitude": 28.5422,
+    "Site_Name": "GK 2 Metro North Side Tw",
+    "May-22": "nan",
+    "Aug-22": "nan",
+    "Nov-22": "6.7",
+    "Jan-23": "6.83",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b09e"
+    },
+    "District Name": "North East",
+    "Tehsil Name": "KARAWAL NAGAR",
+    "Longitude": 77.2744,
+    "Latitude": 28.7042,
+    "Site_Name": "Gokulpuri EW",
+    "May-22": "25.11",
+    "Aug-22": "28.04",
+    "Nov-22": "28.16",
+    "Jan-23": "26.22",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b09f"
+    },
+    "District Name": "East",
+    "Tehsil Name": "PREET VIHAR",
+    "Longitude": 77.2917,
+    "Latitude": 28.6422,
+    "Site_Name": "Gujarat Vihar Pz",
+    "May-22": "6.33",
+    "Aug-22": "6.23",
+    "Nov-22": "6.27",
+    "Jan-23": "6.44",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a0"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2417,
+    "Latitude": 28.5403,
+    "Site_Name": "Gurudwara GK-II Pz",
+    "May-22": "4.08",
+    "Aug-22": "3.43",
+    "Nov-22": "3.32",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a1"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1469,
+    "Latitude": 28.7289,
+    "Site_Name": "HaiderpurPz",
+    "May-22": "12.8",
+    "Aug-22": "22.56",
+    "Nov-22": "11.92",
+    "Jan-23": "11.83",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a2"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.0083,
+    "Latitude": 28.8319,
+    "Site_Name": "Hareoli DW",
+    "May-22": "3.73",
+    "Aug-22": "2.57",
+    "Nov-22": "2.08",
+    "Jan-23": "2.96",
+    "Pz/DW": "DW"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a3"
+    },
+    "District Name": "South",
+    "Tehsil Name": "HAUZ KHAS",
+    "Longitude": 77.2022,
+    "Latitude": 28.5453,
+    "Site_Name": "Hauz Khas Pz",
+    "May-22": "24.7",
+    "Aug-22": "24.5",
+    "Nov-22": "23.95",
+    "Jan-23": "23.2",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a4"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PUNJABI BAGH",
+    "Longitude": 76.9942,
+    "Latitude": 28.6822,
+    "Site_Name": "Hiran Kudna DW",
+    "May-22": "2.21",
+    "Aug-22": "1.74",
+    "Nov-22": "1.99",
+    "Jan-23": "1.95",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a5"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1808,
+    "Latitude": 28.8011,
+    "Site_Name": "Hiranki Village Pz",
+    "May-22": "7.98",
+    "Aug-22": "8.32",
+    "Nov-22": "7.18",
+    "Jan-23": "7.64",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a6"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.2508,
+    "Latitude": 28.595,
+    "Site_Name": "Humayu Tomb DW",
+    "May-22": "4.78",
+    "Aug-22": "4.66",
+    "Nov-22": "7.57",
+    "Jan-23": "4.4",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a7"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "CIVIL LINES",
+    "Longitude": 77.2306,
+    "Latitude": 28.6722,
+    "Site_Name": "ISBT (Kasmiri Gate) DW",
+    "May-22": "3.19",
+    "Aug-22": "2.23",
+    "Nov-22": "3.1",
+    "Jan-23": "3.45",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a8"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "VASANT VIHAR",
+    "Longitude": 77.1569,
+    "Latitude": 28.5358,
+    "Site_Name": "J N U Pz (Upstream)",
+    "May-22": "12.4",
+    "Aug-22": "13.41",
+    "Nov-22": "13.08",
+    "Jan-23": "13.51",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0a9"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "CIVIL LINES",
+    "Longitude": 77.2225,
+    "Latitude": 28.74,
+    "Site_Name": "JagatpurPz 2",
+    "May-22": "2.51",
+    "Aug-22": "1.39",
+    "Nov-22": "1.76",
+    "Jan-23": "1.62",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0aa"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2364,
+    "Latitude": 28.5328,
+    "Site_Name": "Jahapana Park",
+    "May-22": "10",
+    "Aug-22": "10.34",
+    "Nov-22": "9.43",
+    "Jan-23": "9.34",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ab"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "SARITA VIHAR",
+    "Longitude": 77.3406,
+    "Latitude": 28.5089,
+    "Site_Name": "Jaitpur Khadar RD3500 Pz",
+    "May-22": "9.32",
+    "Aug-22": "8.6",
+    "Nov-22": "8",
+    "Jan-23": "8.34",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ac"
+    },
+    "District Name": "South",
+    "Tehsil Name": "MEHRAULI",
+    "Longitude": 77.1822,
+    "Latitude": 28.5061,
+    "Site_Name": "Jamali Kamali DW",
+    "May-22": "15.42",
+    "Aug-22": "13.21",
+    "Nov-22": "13.65",
+    "Jan-23": "13.36",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ad"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PATEL NAGAR",
+    "Longitude": 77.0914,
+    "Latitude": 28.63,
+    "Site_Name": "Janakpuri Pz",
+    "May-22": "6.99",
+    "Aug-22": "6.61",
+    "Nov-22": "6.38",
+    "Jan-23": "6.31",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ae"
+    },
+    "District Name": "South",
+    "Tehsil Name": "MEHRAULI",
+    "Longitude": 77.15,
+    "Latitude": 28.4681,
+    "Site_Name": "Jaunapur DJB TW",
+    "May-22": "41.37",
+    "Aug-22": "40.96",
+    "Nov-22": "40.07",
+    "Jan-23": "40.62",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0af"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "KANJHAWALA",
+    "Longitude": 76.9667,
+    "Latitude": 28.7528,
+    "Site_Name": "Jaunti DW",
+    "May-22": "11.66",
+    "Aug-22": "11.31",
+    "Nov-22": "11.07",
+    "Jan-23": "11.06",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b0"
+    },
+    "District Name": "South",
+    "Tehsil Name": "MEHRAULI",
+    "Longitude": 77.1894,
+    "Latitude": 28.4089,
+    "Site_Name": "Jheel Khoh",
+    "May-22": "53.34",
+    "Aug-22": "52.68",
+    "Nov-22": "51.69",
+    "Jan-23": "55.49",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b1"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 76.9047,
+    "Latitude": 28.5361,
+    "Site_Name": "JhuljhuliDw",
+    "May-22": "1.27",
+    "Aug-22": "0.97",
+    "Nov-22": "2.58",
+    "Jan-23": "1.82",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b2"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "DELHI CANTONMENT",
+    "Longitude": 77.1275,
+    "Latitude": 28.5922,
+    "Site_Name": "Kabul Line Pz",
+    "May-22": "31.79",
+    "Aug-22": "32.37",
+    "Nov-22": "31.68",
+    "Jan-23": "31.18",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b3"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "KANJHAWALA",
+    "Longitude": 77,
+    "Latitude": 28.725,
+    "Site_Name": "KanjhawalaPz",
+    "May-22": "1.46",
+    "Aug-22": "0.83",
+    "Nov-22": "Abandoned",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b4"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PATEL NAGAR",
+    "Longitude": 77.0864,
+    "Latitude": 28.6525,
+    "Site_Name": "Keshopur DJB WTP",
+    "May-22": "8.97",
+    "Aug-22": "8.68",
+    "Nov-22": "7.94",
+    "Jan-23": "8.1",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b5"
+    },
+    "District Name": "North",
+    "Tehsil Name": "MODEL TOWN",
+    "Longitude": 77.1811,
+    "Latitude": 28.7183,
+    "Site_Name": "Kewal Park Pz",
+    "May-22": "3.44",
+    "Aug-22": "3.42",
+    "Nov-22": "3.41",
+    "Jan-23": "3.53",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b6"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "CIVIL LINES",
+    "Longitude": 77.2344,
+    "Latitude": 28.6644,
+    "Site_Name": "Khela Ghat Bhela road",
+    "May-22": "2.26",
+    "Aug-22": "1.73",
+    "Nov-22": "1.95",
+    "Jan-23": "2.08",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b7"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1181,
+    "Latitude": 28.7694,
+    "Site_Name": "Khera Kalan Pz",
+    "May-22": "11.67",
+    "Aug-22": "12.73",
+    "Nov-22": "11.11",
+    "Jan-23": "10.89",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b8"
+    },
+    "District Name": "East",
+    "Tehsil Name": "Mayur Vihar",
+    "Longitude": 77.3217,
+    "Latitude": 28.6106,
+    "Site_Name": "Kondli DJB WTP",
+    "May-22": "26.87",
+    "Aug-22": "26.75",
+    "Nov-22": "26.43",
+    "Jan-23": "26.14",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0b9"
+    },
+    "District Name": "NAZUL LAND",
+    "Tehsil Name": "NAZUL LAND",
+    "Longitude": 77.2717,
+    "Latitude": 28.6325,
+    "Site_Name": "Lalitha Park (Pz)",
+    "May-22": "6.47",
+    "Aug-22": "6.05",
+    "Nov-22": "5.45",
+    "Jan-23": "5.35",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ba"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.2164,
+    "Latitude": 28.5903,
+    "Site_Name": "Lodhi Garden.(SH)",
+    "May-22": "4.54",
+    "Aug-22": "4.55",
+    "Nov-22": "3.7",
+    "Jan-23": "3.6",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0bb"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.2206,
+    "Latitude": 28.5917,
+    "Site_Name": "Lodhi Graden Dw",
+    "May-22": "7.3",
+    "Aug-22": "7.39",
+    "Nov-22": "7.13",
+    "Jan-23": "6.97",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0bc"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.175,
+    "Latitude": 28.6042,
+    "Site_Name": "Mahabir Vansthali",
+    "May-22": "22.34",
+    "Aug-22": "21.89",
+    "Nov-22": "22",
+    "Jan-23": "22.14",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0bd"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "SARASWATI VIHAR",
+    "Longitude": 77.0058,
+    "Latitude": 28.7556,
+    "Site_Name": "Majara Dabas",
+    "May-22": "2.26",
+    "Aug-22": "2.45",
+    "Nov-22": "2.61",
+    "Jan-23": "3.07",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0be"
+    },
+    "District Name": "Central",
+    "Tehsil Name": "CIVIL LINES",
+    "Longitude": 77.2278,
+    "Latitude": 28.6958,
+    "Site_Name": "Majnu Ka Tila DW",
+    "May-22": "14.45",
+    "Aug-22": "7.69",
+    "Nov-22": "7.57",
+    "Jan-23": "7.51",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0bf"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.0792,
+    "Latitude": 28.6903,
+    "Site_Name": "MangolpurPz",
+    "May-22": "3.88",
+    "Aug-22": "3.51",
+    "Nov-22": "3.38",
+    "Jan-23": "3.15",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c0"
+    },
+    "District Name": "West",
+    "Tehsil Name": "RAJOURI GARDEN",
+    "Longitude": 77.1111,
+    "Latitude": 28.6186,
+    "Site_Name": "MayapuriPz",
+    "May-22": "35.43",
+    "Aug-22": "35.38",
+    "Nov-22": "35.44",
+    "Jan-23": "35.68",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c1"
+    },
+    "District Name": "East",
+    "Tehsil Name": "MAYUR VIHAR",
+    "Longitude": 77.3044,
+    "Latitude": 28.6164,
+    "Site_Name": "Mayur Vihar B Block Ph II",
+    "May-22": "8.48",
+    "Aug-22": "8.38",
+    "Nov-22": "8.17",
+    "Jan-23": "8.1",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c2"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2436,
+    "Latitude": 28.5342,
+    "Site_Name": "M-Block Park GK-II Pz",
+    "May-22": "5.71",
+    "Aug-22": "5.56",
+    "Nov-22": "nan",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c3"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 76.8933,
+    "Latitude": 28.6064,
+    "Site_Name": "Mundela Kalan Pz",
+    "May-22": "10.16",
+    "Aug-22": "7.93",
+    "Nov-22": "7.84",
+    "Jan-23": "7.99",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c4"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 77.0006,
+    "Latitude": 28.6147,
+    "Site_Name": "Najafgarh Town",
+    "May-22": "16.6",
+    "Aug-22": "16.75",
+    "Nov-22": "16.32",
+    "Jan-23": "15.85",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c5"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "DEFENCE COLONY",
+    "Longitude": 77.2733,
+    "Latitude": 28.5944,
+    "Site_Name": "NangliRajapurPz",
+    "May-22": "3.7",
+    "Aug-22": "2.48",
+    "Nov-22": "2.31",
+    "Jan-23": "2.33",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c6"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.1344,
+    "Latitude": 28.8367,
+    "Site_Name": "Narela DJB WTP",
+    "May-22": "15.55",
+    "Aug-22": "17.57",
+    "Nov-22": "16.9",
+    "Jan-23": "16.7",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c7"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.21,
+    "Latitude": 28.6061,
+    "Site_Name": "Nehru Park Dw",
+    "May-22": "18.46",
+    "Aug-22": "18.56",
+    "Nov-22": "18.23",
+    "Jan-23": "17.58",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c8"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "KANJHAWALA",
+    "Longitude": 76.9667,
+    "Latitude": 28.7194,
+    "Site_Name": "Nizampur EW",
+    "May-22": "5.49",
+    "Aug-22": "5.1",
+    "Nov-22": "5.55",
+    "Jan-23": "5.31",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0c9"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "KANJHAWALA",
+    "Longitude": 76.9636,
+    "Latitude": 28.72,
+    "Site_Name": "Nizampur Mandir Dw",
+    "May-22": "4.97",
+    "Aug-22": "4.93",
+    "Nov-22": "4.8",
+    "Jan-23": "4.75",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ca"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2733,
+    "Latitude": 28.5642,
+    "Site_Name": "Okhla DJB WTP Pz",
+    "May-22": "6.8",
+    "Aug-22": "6.77",
+    "Nov-22": "6.61",
+    "Jan-23": "7.07",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0cb"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.2036,
+    "Latitude": 28.8225,
+    "Site_Name": "Palla Temple",
+    "May-22": "8.08",
+    "Aug-22": "8.18",
+    "Nov-22": "8.62",
+    "Jan-23": "8.41",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0cc"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1964,
+    "Latitude": 28.8581,
+    "Site_Name": "Palla Zero RD",
+    "May-22": "9.75",
+    "Aug-22": "10.46",
+    "Nov-22": "9.2",
+    "Jan-23": "9.45",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0cd"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PUNJABI BAGH",
+    "Longitude": 77.0933,
+    "Latitude": 28.6756,
+    "Site_Name": "Peeragarhi DW",
+    "May-22": "5.84",
+    "Aug-22": "5.81",
+    "Nov-22": "5.89",
+    "Jan-23": "6.13",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ce"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PUNJABI BAGH",
+    "Longitude": 77.0947,
+    "Latitude": 28.6781,
+    "Site_Name": "PeeragarhiPz",
+    "May-22": "3.69",
+    "Aug-22": "3.24",
+    "Nov-22": "3.66",
+    "Jan-23": "3.86",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0cf"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PATEL NAGAR",
+    "Longitude": 77.1622,
+    "Latitude": 28.6392,
+    "Site_Name": "PUSA (NRL) Pz",
+    "May-22": "31.07",
+    "Aug-22": "30.86",
+    "Nov-22": "30.71",
+    "Jan-23": "30.14",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d0"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "DELHI CANTONMENT",
+    "Longitude": 77.1594,
+    "Latitude": 28.6319,
+    "Site_Name": "Pusa Institute (WTC)",
+    "May-22": "24.18",
+    "Aug-22": "27.38",
+    "Nov-22": "24.12",
+    "Jan-23": "38.63",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d1"
+    },
+    "District Name": "South",
+    "Tehsil Name": "HAUZ KHAS",
+    "Longitude": 77.2267,
+    "Latitude": 28.5278,
+    "Site_Name": "Pusp Vihar Pz",
+    "May-22": "39.53",
+    "Aug-22": "39.52",
+    "Nov-22": "39.04",
+    "Jan-23": "38.63",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d2"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.0333,
+    "Latitude": 28.8419,
+    "Site_Name": "QatlupurDw",
+    "May-22": "3.89",
+    "Aug-22": "1.64",
+    "Nov-22": "2.62",
+    "Jan-23": "3",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d3"
+    },
+    "District Name": "North",
+    "Tehsil Name": "NARELA",
+    "Longitude": 77.0333,
+    "Latitude": 28.8419,
+    "Site_Name": "QatlupurPz",
+    "May-22": "nan",
+    "Aug-22": "nan",
+    "Nov-22": "nan",
+    "Jan-23": "1.73",
+    "Pz/DW": "PZ"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d4"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "SARASWATI VIHAR",
+    "Longitude": 76.9647,
+    "Latitude": 28.8056,
+    "Site_Name": "Qutubgarh",
+    "May-22": "4.49",
+    "Aug-22": "4.19",
+    "Nov-22": "3.84",
+    "Jan-23": "4.4",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d5"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.025,
+    "Latitude": 28.7069,
+    "Site_Name": "Rani Khera DW",
+    "May-22": "1.25",
+    "Aug-22": "0.43",
+    "Nov-22": "0.62",
+    "Jan-23": "1.08",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d6"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "KAPESHERA",
+    "Longitude": 76.9042,
+    "Latitude": 28.5181,
+    "Site_Name": "RaotaDw",
+    "May-22": "1.68",
+    "Aug-22": "0.79",
+    "Nov-22": "0.84",
+    "Jan-23": "1.71",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d7"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.1017,
+    "Latitude": 28.715,
+    "Site_Name": "RithalaPz Sec5 Rohini",
+    "May-22": "3.79",
+    "Aug-22": "3.03",
+    "Nov-22": "2.99",
+    "Jan-23": "2.77",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d8"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.1044,
+    "Latitude": 28.7322,
+    "Site_Name": "Rohini Sec 11 Pz",
+    "May-22": "4.89",
+    "Aug-22": "4.72",
+    "Nov-22": "4.94",
+    "Jan-23": "5.01",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0d9"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.0708,
+    "Latitude": 28.7242,
+    "Site_Name": "Rohini Sector 23",
+    "May-22": "1.3",
+    "Aug-22": "0.94",
+    "Nov-22": "0.8",
+    "Jan-23": "0.96",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0da"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.095,
+    "Latitude": 28.7528,
+    "Site_Name": "Rohini Sector 28",
+    "May-22": "4.88",
+    "Aug-22": "5.25",
+    "Nov-22": "4.76",
+    "Jan-23": "5.6",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0db"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2475,
+    "Latitude": 28.5339,
+    "Site_Name": "S Block Park GK-II Pz",
+    "May-22": "9.05",
+    "Aug-22": "8.95",
+    "Nov-22": "9.24",
+    "Jan-23": "9.24",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0dc"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.2125,
+    "Latitude": 28.5903,
+    "Site_Name": "Safdarjung tomb",
+    "May-22": "11.57",
+    "Aug-22": "11.32",
+    "Nov-22": "10.81",
+    "Jan-23": "12.7",
+    "Pz/DW": "Dw"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0dd"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "SARASWATI VIHAR",
+    "Longitude": 77.1219,
+    "Latitude": 28.6911,
+    "Site_Name": "Sainik Vihar(Pz)",
+    "May-22": "3.14",
+    "Aug-22": "2.49",
+    "Nov-22": "2.43",
+    "Jan-23": "2.36",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0de"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.1525,
+    "Latitude": 28.7406,
+    "Site_Name": "SamaypurBadliPz",
+    "May-22": "8.26",
+    "Aug-22": "8.36",
+    "Nov-22": "8.49",
+    "Jan-23": "8.4",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0df"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "SARASWATI VIHAR",
+    "Longitude": 77.1461,
+    "Latitude": 28.695,
+    "Site_Name": "Sandesh Vihar Pz",
+    "May-22": "4.41",
+    "Aug-22": "3.98",
+    "Nov-22": "4.4",
+    "Jan-23": "4.66",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e0"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "SARASWATI VIHAR",
+    "Longitude": 77.1419,
+    "Latitude": 28.6903,
+    "Site_Name": "Sanjay Van Pz",
+    "May-22": "3.29",
+    "Aug-22": "2.97",
+    "Nov-22": "2.66",
+    "Jan-23": "2.55",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e1"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.0981,
+    "Latitude": 28.7028,
+    "Site_Name": "Sector 1 Rohini Pz",
+    "May-22": "4.885",
+    "Aug-22": "3.47",
+    "Nov-22": "3.47",
+    "Jan-23": "3.25",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e2"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2419,
+    "Latitude": 28.5375,
+    "Site_Name": "Sehgal Market-1 GK-II Pz",
+    "May-22": "2.63",
+    "Aug-22": "2.41",
+    "Nov-22": "2.73",
+    "Jan-23": "2.71",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e3"
+    },
+    "District Name": "South East",
+    "Tehsil Name": "KALKAJI",
+    "Longitude": 77.2408,
+    "Latitude": 28.5356,
+    "Site_Name": "Sehgal Market-2 GK-II Pz",
+    "May-22": "12.19",
+    "Aug-22": "12.13",
+    "Nov-22": "12.46",
+    "Jan-23": "12.45",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e4"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.19,
+    "Latitude": 28.5967,
+    "Site_Name": "Shanti Path American Embassy",
+    "May-22": "23.05",
+    "Aug-22": "22.93",
+    "Nov-22": "22.45",
+    "Jan-23": "22.19",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e5"
+    },
+    "District Name": "NAZUL LAND",
+    "Tehsil Name": "NAZUL LAND",
+    "Longitude": 77.2617,
+    "Latitude": 28.6756,
+    "Site_Name": "Shastri Park (Pz)",
+    "May-22": "6.08",
+    "Aug-22": "6.53",
+    "Nov-22": "5.21",
+    "Jan-23": "5.2",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e6"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "DELHI CANTONMENT",
+    "Longitude": 77.1078,
+    "Latitude": 28.5783,
+    "Site_Name": "Shekhwati Line Pz",
+    "May-22": "51.52",
+    "Aug-22": "51.03",
+    "Nov-22": "43.04",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e7"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "KAPESHERA",
+    "Longitude": 76.9533,
+    "Latitude": 28.5247,
+    "Site_Name": "Shikarpur Shallow Pz",
+    "May-22": "7.28",
+    "Aug-22": "7.22",
+    "Nov-22": "6.12",
+    "Jan-23": "6.09",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e8"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.2122,
+    "Latitude": 28.615,
+    "Site_Name": "Shram Shakti Bhawan 2",
+    "May-22": "8.68",
+    "Aug-22": "7.89",
+    "Nov-22": "7.13",
+    "Jan-23": "7.3",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0e9"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.2125,
+    "Latitude": 28.6153,
+    "Site_Name": "Shram Shakti Bhawan 3",
+    "May-22": "8.16",
+    "Aug-22": "7.4",
+    "Nov-22": "nan",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ea"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1294,
+    "Latitude": 28.8433,
+    "Site_Name": "SingholaPz",
+    "May-22": "18",
+    "Aug-22": "19.07",
+    "Nov-22": "19.02",
+    "Jan-23": "19.01",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0eb"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1311,
+    "Latitude": 28.8533,
+    "Site_Name": "Singhu Village Pz",
+    "May-22": "19.2",
+    "Aug-22": "22.24",
+    "Nov-22": "19.99",
+    "Jan-23": "20.28",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ec"
+    },
+    "District Name": "North East",
+    "Tehsil Name": "KARAWAL NAGAR",
+    "Longitude": 77.2486,
+    "Latitude": 28.7075,
+    "Site_Name": "Sonia Vihar DJB WTP",
+    "May-22": "11.52",
+    "Aug-22": "12.87",
+    "Nov-22": "11.24",
+    "Jan-23": "11.68",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ed"
+    },
+    "District Name": "North West",
+    "Tehsil Name": "ROHINI",
+    "Longitude": 77.0356,
+    "Latitude": 28.765,
+    "Site_Name": "Sultanpur Dabas",
+    "May-22": "4.77",
+    "Aug-22": "5.06",
+    "Nov-22": "5.17",
+    "Jan-23": "5.04",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ee"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "VASANT VIHAR",
+    "Longitude": 77.1458,
+    "Latitude": 28.4894,
+    "Site_Name": "Sultanpur IMS Pz",
+    "May-22": "64.37",
+    "Aug-22": "62.7",
+    "Nov-22": "64.74",
+    "Jan-23": "65.36",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0ef"
+    },
+    "District Name": "New Delhi",
+    "Tehsil Name": "CHANAKYAPURI",
+    "Longitude": 77.245,
+    "Latitude": 28.5961,
+    "Site_Name": "Sunder Nursery Pz",
+    "May-22": "5.33",
+    "Aug-22": "5.41",
+    "Nov-22": "5.14",
+    "Jan-23": "5.31",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f0"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 76.9322,
+    "Latitude": 28.6039,
+    "Site_Name": "Surheda",
+    "May-22": "10.93",
+    "Aug-22": "10.84",
+    "Nov-22": "10.8",
+    "Jan-23": "11.07",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f1"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 76.9342,
+    "Latitude": 28.6011,
+    "Site_Name": "SurhedaDw",
+    "May-22": "10.7",
+    "Aug-22": "10.62",
+    "Nov-22": "nan",
+    "Jan-23": "nan",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f2"
+    },
+    "District Name": "West",
+    "Tehsil Name": "RAJOURI GARDEN",
+    "Longitude": 76.9342,
+    "Latitude": 28.6011,
+    "Site_Name": "Tagore Garden",
+    "May-22": "14",
+    "Aug-22": "14.61",
+    "Nov-22": "14.26",
+    "Jan-23": "14.15",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f3"
+    },
+    "District Name": "North",
+    "Tehsil Name": "ALIPUR",
+    "Longitude": 77.1972,
+    "Latitude": 28.8147,
+    "Site_Name": "Tiggipur Shallow Pz",
+    "May-22": "7.05",
+    "Aug-22": "7.32",
+    "Nov-22": "6.47",
+    "Jan-23": "6.74",
+    "Pz/DW": "Pz"
+  },
+  
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f5"
+    },
+    "District Name": "South West",
+    "Tehsil Name": "NAJAFGARH",
+    "Longitude": 77.1975,
+    "Latitude": 28.8147,
+    "Site_Name": "UjwahPz",
+    "May-22": "10.04",
+    "Aug-22": "9.96",
+    "Nov-22": "8.87",
+    "Jan-23": "9.76",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f6"
+    },
+    "District Name": "North East",
+    "Tehsil Name": "SEELAM PUR",
+    "Longitude": 76.9142,
+    "Latitude": 28.5767,
+    "Site_Name": "UshmanpurPz",
+    "May-22": "5.3",
+    "Aug-22": "4.01",
+    "Nov-22": "1.69",
+    "Jan-23": "2.67",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f7"
+    },
+    "District Name": "West",
+    "Tehsil Name": "PATEL NAGAR",
+    "Longitude": 77.0742,
+    "Latitude": 28.6322,
+    "Site_Name": "VikashpuriPz",
+    "May-22": "8.79",
+    "Aug-22": "7.72",
+    "Nov-22": "7.67",
+    "Jan-23": "7.98",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f8"
+    },
+    "District Name": "Shahdara",
+    "Tehsil Name": "VIVEK VIHAR",
+    "Longitude": 77.3131,
+    "Latitude": 28.6708,
+    "Site_Name": "Vivek Vihar (Pz)",
+    "May-22": "20.11",
+    "Aug-22": "21.29",
+    "Nov-22": "21.08",
+    "Jan-23": "20.91",
+    "Pz/DW": "Pz"
+  },
+  {
+    "_id": {
+      "$oid": "65be40ea4c4e1eb4c629b0f9"
+    },
+    "District Name": "North East",
+    "Tehsil Name": "Yamuna Vihar",
+    "Longitude": 77.2872,
+    "Latitude": 28.6972,
+    "Site_Name": "Yamuna Vihar DJB WTP",
+    "May-22": "20.93",
+    "Aug-22": "22.87",
+    "Nov-22": "22.54",
+    "Jan-23": "23.69",
+    "Pz/DW": "Pz"
+  }]
