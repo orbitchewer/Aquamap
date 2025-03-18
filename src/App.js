@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import Map from "./components/Map/Map";
+import Json from "./components/fetch_data/json_dis";
+import { List } from "@material-ui/core";
+import List1 from "./components/List/List";
+import { useState } from "react";
+import useJsonData from './components/useJsonData';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+console.log("hi");
+const App= ()=>{
+
+    const [childClicked, setChildClicked]=useState(null);
+    const markers = useJsonData();
+
+    const[isLoading,setIsLoading]=useState(false);
+
+
+    return(
+        <div style={{display:'flex'}}>
+            <List1 childClicked={childClicked} markers={markers} isLoading={isLoading}/>
+            <Map setChildClicked={setChildClicked}/>
+        </div>
+
+    );
+
 }
-
 export default App;
