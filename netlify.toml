@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "dist" # Change this to match your framework (e.g., "build" for React)
+  publish = "build" # Change this to match your framework (e.g., "build" for React)
 
 [build.environment]
   NODE_VERSION = "18"
